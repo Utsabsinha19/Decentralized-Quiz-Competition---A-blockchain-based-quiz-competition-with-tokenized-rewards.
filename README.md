@@ -6,7 +6,7 @@ Project Title
 Decentralized Quiz Competition - A blockchain-based quiz competition with tokenized rewards.
 
 Project Description
-![image](https://github.com/user-attachments/assets/cf694007-baf9-4cd4-bfec-5c9f6942add4)
+
 A decentralized ledger for tracking ownership history for second-hand items.
 
 Project Vision
@@ -30,5 +30,6 @@ Mobile Application: Developing an intuitive mobile app for seamless participatio
 Marketplace Integration: Allowing users to trade quiz-related assets and second-hand items securely.
 
 This project envisions a decentralized future where knowledge competitions and ownership tracking are fair, transparent, and secure for all users.
-Contact Address:
-0x8037F0ADF95474cD4175cfD745DC42179AC05010
+
+Contact Address: 0x8037F0ADF95474cD4175cfD745DC42179AC05010
+![image](https://github.com/user-attachments/assets/cf694007-baf9-4cd4-bfec-5c9f6942add4)
